@@ -8,4 +8,4 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=z1wan)](https://solved.ac/z1wan)
-> 📅 2026년 2월 17일부터 코딩테스트 문제 풀이를 시작했습니다.
+> 2026년 2월 13일부터 코딩테스트 문제 풀이를 시작했습니다.
