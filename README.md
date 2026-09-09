@@ -7,10 +7,8 @@
 <br>
 
 <br />
-  iOS Developer focused on building stable and reliable apps.<br>
-  Graduated in Automotive Engineering, growing as an iOS Developer.<br>
-🌱 Currently studying iOS frameworks and maintaining my own apps <a href="https://apps.apple.com/kr/app/킥오프-축구-경기-일정/id6756507148">AppStore</a>.
-
+I'm an iOS Developer transitioning from Automotive Engineering, currently building real-world apps with SwiftUI and TCA (The Composable Architecture).
+I'm actively involved in team project collaboration, and I enjoy communicating with others and learning how they think through and solve problems.
 
 
 
